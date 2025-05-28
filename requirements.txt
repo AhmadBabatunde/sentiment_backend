@@ -2,3 +2,4 @@ Flask
 numpy
 tensorflow_intel
 transformers
+tensorflow
